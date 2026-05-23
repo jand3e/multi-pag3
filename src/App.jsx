@@ -18,7 +18,7 @@ function About() {
   return (
     <div className="card">
       <h1>About</h1>
-      <p>This app uses React Router for navigation.</p>
+      <p>This is About Page.</p>
     </div>
   );
 }
